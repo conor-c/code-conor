@@ -1,7 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `new`,
-    siteUrl: `https://www.yourdomain.tld`,
+    title: `Code Conor`,
+    siteUrl: `https://conorchung.com`,
   },
   plugins: [],
+  pathPrefix: "/code-conor",
 }
