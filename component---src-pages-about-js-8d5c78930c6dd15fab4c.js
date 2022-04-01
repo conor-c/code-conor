@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkcode_conor=self.webpackChunkcode_conor||[]).push([[682],{465:function(e,l,n){n.r(l);var t=n(294),r=n(597);l.default=function(){return t.createElement("main",null,t.createElement("title",null,"About"),t.createElement("h1",null,"Conor:"),t.createElement("ul",null,t.createElement("li",null,"is learning to program"),t.createElement("li",null,"is learning to use Gatsby")),t.createElement(r.rU,{to:"/"},"Back to Home"))}}}]);
-//# sourceMappingURL=component---src-pages-about-js-8d5c78930c6dd15fab4c.js.map
