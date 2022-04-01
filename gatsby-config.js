@@ -4,5 +4,4 @@ module.exports = {
     siteUrl: `https://conorchung.com`,
   },
   plugins: [],
-  pathPrefix: "/code-conor",
 }
