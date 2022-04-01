@@ -1,17 +1,13 @@
 import * as React from 'react'
-import { Link } from 'gatsby'
+import Layout from '../components/layout'
 
 const AboutPage = () => {
   return (
-    <main>
-      <title>About</title>
-      <h1>Conor:</h1>
+    <Layout pageTitle="I'm:">
       <ul>
-        <li>is learning to program</li>
-        <li>is learning to use Gatsby</li>
+        <li>learning to program.</li>
       </ul>
-      <Link to="/">Back to Home</Link>
-    </main>
+    </Layout>
   )
 }
 
