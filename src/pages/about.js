@@ -3,9 +3,11 @@ import Layout from '../components/layout'
 
 const AboutPage = () => {
   return (
-    <Layout pageTitle="I'm:">
+    <Layout pageTitle="About Me">
       <ul>
-        <li>learning to program.</li>
+        <li>I'm learning Gatsby</li>
+        <li>I'm building a personal static site to document my journey.</li>
+        <li>I'm probably playing disc golf soon.</li>
       </ul>
     </Layout>
   )
